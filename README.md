@@ -10,11 +10,13 @@ I hope this project inspires other developers to build their own unique personal
 
 Feel free to explore, adapt, and share your ideas!
 
+[My Personal Page](https://gustavo-personal-page.netlify.app/)
+
 ## 🚀 Features
 
 - Interactive 3D graphics using Three.js
 - Responsive design for all screen sizes
-- Hosted on [Netlify](https://netlify.com)
+- Hosted on Netlify
 - Automatic deployments from GitHub
 
 ## 📖 Usage
